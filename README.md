@@ -3,7 +3,7 @@ Welcome to the **Computational Materials Designing Research Group (CMDG)**. We a
 🔋 **Batteries**:
 We are using both DFT and ML techniques to explore next-generation energy storage solutions, focusing on high-capacity, long-life, and sustainable battery technologies.
 
-🧬**Sequencing/Sensing**:
+🧬**Sequencing**:
 Our research in sequencing leverages computational chemistry, machine learning, and AI to advance DNA, RNA, and protein sequencing technologies. We are pioneering the integration of AI with quantum tunneling for carbohydrate sequencing. We develop innovative sensing technologies for environmental monitoring, healthcare, and industrial applications.
 
 🌡️ **Thermoelectrics**:
